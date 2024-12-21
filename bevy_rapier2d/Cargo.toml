@@ -23,6 +23,7 @@ workspace = true
 [features]
 default = ["dim2", "async-collider", "debug-render-2d"]
 dim2 = []
+dim3 = []
 debug-render-2d = [
     "bevy/bevy_core_pipeline",
     "bevy/bevy_sprite",
